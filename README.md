@@ -60,9 +60,16 @@ To simulate the SPI controller module:
 3. **View Waveforms**:
    - Open the waveform viewer in ModelSim to analyze `clk`, `reset`, `data_in`, `start`, `data_out`, `sclk`, `mosi`, `miso`, `ss`, etc.
 
+### OUTPUT 
+![image](https://github.com/user-attachments/assets/80b176b1-ac9e-49d5-8abd-f81e693b2c53)
+
+
+
 #### Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with any improvements, bug fixes, or additional features.
+
+
 
 
 
