@@ -1,5 +1,4 @@
 **NAME** : SATHISH SARAVANAMUTHU
-
 **COMPANY** : CODTECH IT SOLUTIONS
 
 **ID** : CT08DS2462
@@ -12,8 +11,7 @@
 
 ### Project Overview
 
-#### SPI Controller Module Simulation
-
+#### SPI (SERIAL PERIPHERAL INTERFACE) CONTROLLER DESIGN
 This project demonstrates the simulation of an SPI (Serial Peripheral Interface) controller module using Verilog HDL and ModelSim. The SPI controller module is designed to facilitate communication between a master device and multiple slave devices using a serial communication protocol.
 
 #### Features
